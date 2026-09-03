@@ -1,14 +1,18 @@
-Hi, 👋 I’m Abdirahman Aden.
+Hi, 👋 I’m Abdirahman Aadam Ali.
 
-I’m a software developer 💻 who enjoys building useful websites, web applications, and management systems. I like learning new technologies and turning ideas into practical digital solutions.
-<img src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/10/Azure_1087860_Blog_251027.webp" alt="Azure">
+I’m a full-stack software developer 💻 who enjoys building useful websites, web applications, and management systems. I like learning new technologies and turning ideas into practical digital solutions.
 
-Technologies I Use
+<img src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/10/Azure_1087860_Blog_251027.webp" alt="Azure" width="100%" />
 
-🔵 TypeScript
-🟣 React
-🟢 Node.js
+### 🛠️ Tech Stack
 
-[ 🟣 Contact Me ] → abdirahmanaden874@gmail.com
-[ 🟢 Technologies ] → https://react.dev/
-[ 🟠 About Me ] → https://github.com/AbdirahmanAden3
+* **Frontend:** TypeScript
+* **Backend:** Node.js
+
+
+---
+
+### 📫 Let's Connect
+
+* 📧 **Email:** [abdirahmanaden874@gmail.com](mailto:abdirahmanaden874@gmail.com)
+* 🌐 **GitHub Profile:** [github.com/AbdirahmanAden3](https://github.com/AbdirahmanAden3)
