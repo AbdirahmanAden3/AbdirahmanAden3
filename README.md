@@ -16,4 +16,4 @@ I’m a full-stack software developer 💻 who enjoys building useful websites, 
 ### 📫 Let's Connect
 
 * 📧 **Email:** [abdirahmanaden874@gmail.com](mailto:abdirahmanaden874@gmail.com)
-* 🌐 **GitHub Profile:** [github.com/AbdirahmanAden3](https://github.com/AbdirahmanAden3)
+* 📘 Facebook:** https://www.facebook.com/abdirahman.cadalaha/)
