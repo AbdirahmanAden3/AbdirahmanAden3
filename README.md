@@ -5,7 +5,7 @@
 </p>
 <div style="margin-top: 30px;">
 Hi, 👋 I’m Abdirahman Aadam Ali.
-I'm a **React lover** ⚛️
+ **React lover** ⚛️
 </div>
 <p align="left">
   <img src="https://img.shields.io/badge/React%20Lover-⚛️_❤️_61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Lover Badge" />
