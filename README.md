@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/AbdirahmanAden3/AbdirahmanAden3/main/abdirhman.jpg" alt="Abdirahman Adam" width="100%">
+
+<p align="center">
+  <img src="/cover.png" width="100%" alt="Abdirizak Moalim">
+</p>
 Hi, 👋 I’m Abdirahman Aadam Ali.
 
 I’m a full-stack software developer 💻 who enjoys building useful websites, web applications, and management systems. I like learning new technologies and turning ideas into practical digital solutions.
