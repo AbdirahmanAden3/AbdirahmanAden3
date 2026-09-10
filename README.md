@@ -1,5 +1,4 @@
-<img src="./abdirhman.jpg" alt="Abdirahman Adam" width="100%" />
-
+<img src="https://raw.githubusercontent.com/AbdirahmanAden3/AbdirahmanAden3/main/abdirhman.jpg" alt="Abdirahman Adam" width="100%">
 Hi, 👋 I’m Abdirahman Aadam Ali.
 
 I’m a full-stack software developer 💻 who enjoys building useful websites, web applications, and management systems. I like learning new technologies and turning ideas into practical digital solutions.
