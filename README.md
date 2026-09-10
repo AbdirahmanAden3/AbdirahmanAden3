@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/cover.png" alt="Abdirahman Adam" width="100%">
+  <img src="/abdirhman.png" alt="Abdirahman Adam" width="100%">
 
 </p>
 Hi, 👋 I’m Abdirahman Aadam Ali.
