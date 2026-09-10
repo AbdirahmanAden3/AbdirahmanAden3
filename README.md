@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AbdirahmanAden3/AbdirahmanAden3/main/abdirhman.jpg" alt="Abdirahman Adam" width="100%">
+  <img src="/cover.png" alt="Abdirahman Adam" width="100%">
 
 </p>
 Hi, 👋 I’m Abdirahman Aadam Ali.
