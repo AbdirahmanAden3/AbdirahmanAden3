@@ -3,16 +3,16 @@
   <img src="/abdirahman.png" alt="Abdirahman Adam" width="100%">
 
 </p>
+<div style="margin-top: 30px;">
 Hi, 👋 I’m Abdirahman Aadam Ali.
 I'm a **React lover** ⚛️
-
-<div style="margin-top: 30px;">
+</div>
 <p align="left">
   <img src="https://img.shields.io/badge/React%20Lover-⚛️_❤️_61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Lover Badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge" />
+  <img src="https://img.shields.io/badge/Next.js-FF0000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge" />
  
 </p>
-</div>
+
 ### 🛠️ Tech Stack
 
 * **Frontend:** TypeScript
