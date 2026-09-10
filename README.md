@@ -1,5 +1,4 @@
-
-<img src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/10/Azure_1087860_Blog_251027.webp" alt="Azure" width="100%" />
+<img src="./abdirhman.jpg" alt="Abdirahman Adam" width="100%" />
 
 Hi, 👋 I’m Abdirahman Aadam Ali.
 
