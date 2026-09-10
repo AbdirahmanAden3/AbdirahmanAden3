@@ -4,9 +4,10 @@
 
 </p>
 Hi, 👋 I’m Abdirahman Aadam Ali.
-
-I’m a full-stack software developer 💻 who enjoys building useful websites, web applications, and management systems. I like learning new technologies and turning ideas into practical digital solutions.
-
+I'm a **React lover** ⚛️
+<p align="left">
+  <img src="https://img.shields.io/badge/React%20Lover-⚛️_❤️_61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Lover Badge" />
+</p>
 ### 🛠️ Tech Stack
 
 * **Frontend:** TypeScript
